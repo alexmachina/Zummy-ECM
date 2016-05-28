@@ -1,0 +1,11 @@
+{
+  "name": "zummy-ecm",
+  "version": "1.0.0",
+  "description": "The open source, crossplatform ECM Tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Alonso <alex.xmde@gmail.com>",
+  "license": "MIT"
+}
